@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish Static Site"
+  short_description: "Publish local static sites to GitHub Pages"
+  default_prompt: "Use $publish-static-site to publish this local static website to GitHub Pages."
