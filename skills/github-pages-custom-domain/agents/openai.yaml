@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Pages Domain"
+  short_description: "Manage GitHub Pages custom domains and HTTPS"
+  default_prompt: "Use $github-pages-custom-domain to configure this GitHub Pages custom domain and fix HTTPS."

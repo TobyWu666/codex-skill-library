@@ -5,6 +5,7 @@ Personal Codex skills.
 ## Skills
 
 - `publish-static-site`: publish a local static website folder to GitHub Pages.
+- `github-pages-custom-domain`: configure and repair GitHub Pages custom domains and HTTPS.
 - `web-design-engineer`: build high-quality visual web artifacts.
 
 ## Install a skill
